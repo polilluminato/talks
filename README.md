@@ -1,6 +1,6 @@
 # Repository dei Talk di Alberto Bonacina
 
-Benvenuti nel repository contenente tutte le presentazioni e i talk tenuti da me alle diverse conferenze ed eventi a cui ha partecipato. I talk sono organizzati dal più recente al più vecchio suddivisi per anni.
+Benvenuti nel repository con tutte le presentazioni e i talk tenuti da me alle diverse conferenze ed eventi a cui ho partecipato. I talk sono organizzati dal più recente al più vecchio suddivisi per anni.
 
 ## 2023
 
