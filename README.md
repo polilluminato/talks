@@ -2,6 +2,13 @@
 
 Benvenuti nel repository con tutte le presentazioni e i talk tenuti da me alle diverse conferenze ed eventi a cui ho partecipato. I talk sono organizzati dal più recente al più vecchio suddivisi per anni.
 
+## 2025
+
+| **Talk** | **Date** | **Link** |
+| - | - | - |
+| Scan, Sync, Ship: Custom Business Solutions with Flutter and Zebra | 10 Settembre 2025 | [Youtube Video](https://www.youtube.com/watch?v=Q7DquK0BCvc) |
+| UniBG Pokédex with Flutter (v2) | 24 Maggio 2025 | [Repo](https://github.com/polilluminato/unibg-pokedex-flutter) |
+
 ## 2024
 
 | **Talk** | **Date** | **Link** |
